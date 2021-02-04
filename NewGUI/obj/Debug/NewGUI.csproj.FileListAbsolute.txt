@@ -1,0 +1,16 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\bin\Debug\NewGUI.exe.config
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\bin\Debug\NewGUI.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\bin\Debug\NewGUI.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\bin\Debug\Sets.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\bin\Debug\Sets.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\obj\Debug\NewGUI.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\obj\Debug\NewGUI.Form1.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\obj\Debug\NewGUI.Properties.Resources.resources
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\obj\Debug\NewGUI.csproj.GenerateResource.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\obj\Debug\NewGUI.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\obj\Debug\NewGUI.csproj.CopyComplete
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\obj\Debug\NewGUI.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\obj\Debug\NewGUI.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\bin\Debug\Data Structure Project.exe
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\bin\Debug\Data Structure Project.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\NewGUI\bin\Debug\Data Structure Project.exe.config

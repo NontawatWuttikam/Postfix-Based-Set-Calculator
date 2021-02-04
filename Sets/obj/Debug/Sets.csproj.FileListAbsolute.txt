@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\Sets\bin\Debug\Sets.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\Sets\bin\Debug\Sets.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\Sets\obj\Debug\Sets.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\Sets\obj\Debug\Sets.dll
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\Sets\obj\Debug\Sets.pdb
+C:\Users\Lenovo\Documents\Visual Studio 2017\Projects\Data Structure Project\Sets\obj\Debug\Sets.csprojAssemblyReference.cache
